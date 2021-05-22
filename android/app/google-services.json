@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590350493036",
+    "firebase_url": "https://tempted-toes-default-rtdb.firebaseio.com",
+    "project_id": "tempted-toes",
+    "storage_bucket": "tempted-toes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590350493036:android:5547efc0772085cce93f49",
+        "android_client_info": {
+          "package_name": "com.example.tempted_toes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590350493036-iedjch7qkfji3sot5nt1u1jesld3i05d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWj0HUlZZXZSn5rBJb1mA_DPEvX2QnN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590350493036-iedjch7qkfji3sot5nt1u1jesld3i05d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
